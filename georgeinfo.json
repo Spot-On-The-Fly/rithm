@@ -1,6 +1,33 @@
 {
+<<<<<<< HEAD
   "album" : {
     "album_type" : "album",
+=======
+  "items" : [ {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
     "artists" : [ {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
@@ -11,55 +38,507 @@
       "type" : "artist",
       "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     } ],
-    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+    "disc_number" : 1,
+    "duration_ms" : 222039,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK3W1500404"
     },
-    "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
-    "id" : "12zl1WmHPFCSyKYbL4vBZn",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
-      "width" : 64
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2HklyUw3TR56nVyVJAIhw5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2HklyUw3TR56nVyVJAIhw5",
+    "id" : "2HklyUw3TR56nVyVJAIhw5",
+    "is_playable" : true,
+    "name" : "Love Me",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71e1027b6d7d717d6606495fb1eb9c6ee1ce8ef4",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2HklyUw3TR56nVyVJAIhw5"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     } ],
-    "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
-    "type" : "album",
-    "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
-  },
-  "artists" : [ {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+    "disc_number" : 1,
+    "duration_ms" : 380320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK3W1500422"
     },
-    "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
-    "id" : "3mIj9lX2MWuHmhNCA7LSCW",
-    "name" : "The 1975",
-    "type" : "artist",
-    "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1IwdvZ3djfD1SfhexKUmXk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1IwdvZ3djfD1SfhexKUmXk",
+    "id" : "1IwdvZ3djfD1SfhexKUmXk",
+    "is_playable" : true,
+    "name" : "If I Believe You",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6bd5d3c245c096f8e9a02c67f1225f1fbdbf6595",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1IwdvZ3djfD1SfhexKUmXk"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5wssOFrPQwFCqGazaoloEf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5wssOFrPQwFCqGazaoloEf",
+      "id" : "5wssOFrPQwFCqGazaoloEf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/786e27d164d7c9b56286168a4c9ee9a6f1d2a0d3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/925fc7bae301f5c680b00c2a2107642898f86145",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0253beac1868cd0bf652e298d8c36433f45d2ce1",
+        "width" : 64
+      } ],
+      "name" : "Fortified",
+      "type" : "album",
+      "uri" : "spotify:album:5wssOFrPQwFCqGazaoloEf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55BOGnEb0pUuAgbxAwwbKV",
+      "id" : "55BOGnEb0pUuAgbxAwwbKV",
+      "name" : "Ghost-Note",
+      "type" : "artist",
+      "uri" : "spotify:artist:55BOGnEb0pUuAgbxAwwbKV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US8JA1539012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6XL9JE1lnxOzpfibQPR5kR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6XL9JE1lnxOzpfibQPR5kR",
+    "id" : "6XL9JE1lnxOzpfibQPR5kR",
+    "is_playable" : true,
+    "name" : "Can't Get Right",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7380bbe38d9be532f0abf8691a948784c3cfbb54",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6XL9JE1lnxOzpfibQPR5kR"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sRNEe2FCkTYhrEimChdkC",
+      "id" : "7sRNEe2FCkTYhrEimChdkC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7cf84c23c20efc87295dc7e3ad654f7df84a2b2b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/48ffa954349bac528df638628a20df6977932fa3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cd71934a9c2d35d5b5934c94300f4732fafac622",
+        "width" : 64
+      } ],
+      "name" : "The Beautiful Game",
+      "type" : "album",
+      "uri" : "spotify:album:7sRNEe2FCkTYhrEimChdkC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id" : "7pXu47GoqSYRajmBCjxdD6",
+      "name" : "Vulfpeck",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190801,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACS1623890"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1SHA4IJyiyNobDOrQzFFXy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1SHA4IJyiyNobDOrQzFFXy",
+    "id" : "1SHA4IJyiyNobDOrQzFFXy",
+    "is_playable" : true,
+    "name" : "Animal Spirits",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29a5b5ddcbe54267a2711e42c662314e154a3a3f",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1SHA4IJyiyNobDOrQzFFXy"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBK3W1500419"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2T4oNTmPYTZTdIzeFdNNez"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2T4oNTmPYTZTdIzeFdNNez",
+    "id" : "2T4oNTmPYTZTdIzeFdNNez",
+    "is_playable" : true,
+    "name" : "UGH!",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8cd896186ccc7543b36028e32b80242d405c31f1",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2T4oNTmPYTZTdIzeFdNNez"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
+>>>>>>> 67242755c6c40bbf15a54f6a448cc694ce16feea
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 347525,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBK3W1500426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4m0q0xQ2BNl9SCAGKyfiGZ",
+    "id" : "4m0q0xQ2BNl9SCAGKyfiGZ",
+    "is_playable" : true,
+    "name" : "Somebody Else",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/629ecae9077a154bb0c833840ddb47726114be44",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4m0q0xQ2BNl9SCAGKyfiGZ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 270104,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK3W1500421"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5aV4HUW9RFOB0aXq0Ud9s0",
+    "id" : "5aV4HUW9RFOB0aXq0Ud9s0",
+    "is_playable" : true,
+    "name" : "She's American",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0255960d549390c83ec3ba45312a5fdb1758766e",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5aV4HUW9RFOB0aXq0Ud9s0"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12zl1WmHPFCSyKYbL4vBZn",
+      "id" : "12zl1WmHPFCSyKYbL4vBZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2fd2326c1f33ec8a2757b00f669331fc4ca51cdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8e438bbf3ffe81b47ffefa50a863a4dd3721990e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b406d3fda9137b0c9194000952d51f765469122d",
+        "width" : 64
+      } ],
+      "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "type" : "album",
+      "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238296,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK3W1500432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/084LwoVbV9TMRUSZUIkPmV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/084LwoVbV9TMRUSZUIkPmV",
+    "id" : "084LwoVbV9TMRUSZUIkPmV",
+    "is_playable" : true,
+    "name" : "Nana",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/27c634232eb60dc8dbe81312a8ab823e13fe73e1",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:084LwoVbV9TMRUSZUIkPmV"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sRNEe2FCkTYhrEimChdkC",
+      "id" : "7sRNEe2FCkTYhrEimChdkC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7cf84c23c20efc87295dc7e3ad654f7df84a2b2b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/48ffa954349bac528df638628a20df6977932fa3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cd71934a9c2d35d5b5934c94300f4732fafac622",
+        "width" : 64
+      } ],
+      "name" : "The Beautiful Game",
+      "type" : "album",
+      "uri" : "spotify:album:7sRNEe2FCkTYhrEimChdkC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id" : "7pXu47GoqSYRajmBCjxdD6",
+      "name" : "Vulfpeck",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213302,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACS1623891"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1oOD1pV43cV9sHg97aBdLs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1oOD1pV43cV9sHg97aBdLs",
+    "id" : "1oOD1pV43cV9sHg97aBdLs",
+    "is_playable" : true,
+    "name" : "Dean Town",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bb5097bd49baed573ced30273b49079e42537357",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1oOD1pV43cV9sHg97aBdLs"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4l680tKFLqTlAqMKi0WCzJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4l680tKFLqTlAqMKi0WCzJ",
+      "id" : "4l680tKFLqTlAqMKi0WCzJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/04fcb9baca10e9930e262300320bce55d1d8c747",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/2ef828f22d969cb96cb63047d36e5710cd08e3e4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9426cf85b1daf7463a1949310f6cb85c6b4dc809",
+        "width" : 64
+      } ],
+      "name" : "Show Me a Leader",
+      "type" : "album",
+      "uri" : "spotify:album:4l680tKFLqTlAqMKi0WCzJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DWX7u8BV0vZIQSpJQQDWU",
+      "id" : "4DWX7u8BV0vZIQSpJQQDWU",
+      "name" : "Alter Bridge",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DWX7u8BV0vZIQSpJQQDWU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 305030,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ATN261669101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41KHpx0Vstwpvhx6pthpmT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41KHpx0Vstwpvhx6pthpmT",
+    "id" : "41KHpx0Vstwpvhx6pthpmT",
+    "is_playable" : true,
+    "name" : "Show Me A Leader",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/000a7d575877d6befc50019a3c483bec43156e3a",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:41KHpx0Vstwpvhx6pthpmT"
   } ],
-  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
-  "disc_number" : 1,
-  "duration_ms" : 380320,
-  "explicit" : false,
-  "external_ids" : {
-    "isrc" : "GBK3W1500422"
-  },
-  "external_urls" : {
-    "spotify" : "https://open.spotify.com/track/1IwdvZ3djfD1SfhexKUmXk"
-  },
-  "href" : "https://api.spotify.com/v1/tracks/1IwdvZ3djfD1SfhexKUmXk",
-  "id" : "1IwdvZ3djfD1SfhexKUmXk",
-  "name" : "If I Believe You",
-  "popularity" : 58,
-  "preview_url" : "https://p.scdn.co/mp3-preview/6bd5d3c245c096f8e9a02c67f1225f1fbdbf6595?cid=null",
-  "track_number" : 6,
-  "type" : "track",
-  "uri" : "spotify:track:1IwdvZ3djfD1SfhexKUmXk"
+  "total" : 50,
+  "limit" : 10,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/tracks?limit=10&offset=0",
+  "previous" : null,
+  "next" : "https://api.spotify.com/v1/me/top/tracks?limit=10&offset=10"
 }

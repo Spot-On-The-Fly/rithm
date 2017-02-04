@@ -1,0 +1,19 @@
+{
+  "display_name" : "Jack Pearson",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/jptreblestick"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 23
+  },
+  "href" : "https://api.spotify.com/v1/users/jptreblestick",
+  "id" : "jptreblestick",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/11218967_1014079321965001_6882921635029782048_n.jpg?oh=15918dad805552de05730859fe543f56&oe=58FF203C",
+    "width" : null
+  } ],
+  "type" : "user",
+  "uri" : "spotify:user:jptreblestick"
+}
