@@ -1,0 +1,19 @@
+{
+  "display_name" : "Ryan Armiger",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/northernwyvern"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 4
+  },
+  "href" : "https://api.spotify.com/v1/users/northernwyvern",
+  "id" : "northernwyvern",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/12316567_503111196536599_5619073998394261419_n.jpg?oh=a80cbcf42c5ffc25c29e6a3905302860&oe=590751F4",
+    "width" : null
+  } ],
+  "type" : "user",
+  "uri" : "spotify:user:northernwyvern"
+}

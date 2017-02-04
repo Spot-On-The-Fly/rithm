@@ -1,0 +1,1069 @@
+{
+  "items" : [ {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 264706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US37V1322204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4AQ4tIKGLXeBQQsybOKTmv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4AQ4tIKGLXeBQQsybOKTmv",
+    "id" : "4AQ4tIKGLXeBQQsybOKTmv",
+    "is_playable" : true,
+    "name" : "Twin Size Mattress",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b768f76f30081355f930c9e2115e6f5e098a21f",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4AQ4tIKGLXeBQQsybOKTmv"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 109000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1322201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2z8DyBmKiGtobhKwnMVCyj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2z8DyBmKiGtobhKwnMVCyj",
+    "id" : "2z8DyBmKiGtobhKwnMVCyj",
+    "is_playable" : true,
+    "name" : "Au Revoir - Adios",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/83eb117c4dcbdd34aceb5308b43920585929fa95",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2z8DyBmKiGtobhKwnMVCyj"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 225640,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21502131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4G7l8ksBL0Xq20SvJhRU2R"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4G7l8ksBL0Xq20SvJhRU2R",
+    "id" : "4G7l8ksBL0Xq20SvJhRU2R",
+    "is_playable" : true,
+    "name" : "HELP",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/058bfc191104355423cad9f92b0e0550f4fc0cf7",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4G7l8ksBL0Xq20SvJhRU2R"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3V5iZNuunKo0w3A5enqmuF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3V5iZNuunKo0w3A5enqmuF",
+    "id" : "3V5iZNuunKo0w3A5enqmuF",
+    "is_playable" : true,
+    "name" : "Summer Shandy",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7ab57306c1ba1599bb41dadddf0f15e59d860100",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3V5iZNuunKo0w3A5enqmuF"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21502134"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2UJ2JvrxU5Ue1y08o5TzqJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2UJ2JvrxU5Ue1y08o5TzqJ",
+    "id" : "2UJ2JvrxU5Ue1y08o5TzqJ",
+    "is_playable" : true,
+    "name" : "The Plan (Fuck Jobs)",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/36319f674e6070d3a38b414b15cdf3c9fd52ba7b",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2UJ2JvrxU5Ue1y08o5TzqJ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 260240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21501842"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3K4y191l94wf2t43qafbdV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3K4y191l94wf2t43qafbdV",
+    "id" : "3K4y191l94wf2t43qafbdV",
+    "is_playable" : true,
+    "name" : "Cough It Out",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/84e0d9f222c8b13eeeb0ce46e3b855a3e0aa2ffb",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3K4y191l94wf2t43qafbdV"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1322205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Q34lJzjp8keqYPa5qhlew"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Q34lJzjp8keqYPa5qhlew",
+    "id" : "1Q34lJzjp8keqYPa5qhlew",
+    "is_playable" : true,
+    "name" : "Peach",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6aaf590fe1f1db8b8e24f578398e05a56ec03d3",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1Q34lJzjp8keqYPa5qhlew"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502132"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DK7xqyQA9YKRYtu0ZuvGl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DK7xqyQA9YKRYtu0ZuvGl",
+    "id" : "2DK7xqyQA9YKRYtu0ZuvGl",
+    "is_playable" : true,
+    "name" : "Laugh Till I Cry",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e1d477556b9918702b5f2ab41dd58a1fd5ae1366",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2DK7xqyQA9YKRYtu0ZuvGl"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Xnl2E9agxhFfErrwooPnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Xnl2E9agxhFfErrwooPnW",
+      "id" : "4Xnl2E9agxhFfErrwooPnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9446db05edadb6a694c7ca9f11100b03d263373a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1bfa85eaaf7a5e3063da7f565d369ddf7f28353e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b48f16fd79cbe31d37bc6bf9878dc3c0c7b428f",
+        "width" : 64
+      } ],
+      "name" : "Rose",
+      "type" : "album",
+      "uri" : "spotify:album:4Xnl2E9agxhFfErrwooPnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 225253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1422703"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/02tOE0udfV5HfJMN0mhSBx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/02tOE0udfV5HfJMN0mhSBx",
+    "id" : "02tOE0udfV5HfJMN0mhSBx",
+    "is_playable" : true,
+    "name" : "Twelve Feet Deep",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eee2a7b28b3509f2eb284e46a93b9b3f0517704b",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:02tOE0udfV5HfJMN0mhSBx"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3sqhmwesV4CATzLViN66OO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3sqhmwesV4CATzLViN66OO",
+      "id" : "3sqhmwesV4CATzLViN66OO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b4b3bdbe02be07e3ff7a85823bacc613675313e9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/71cdcb0b9444db0db185613fb31c88e5ada533ae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/8b6043aaf9469e26adea5d85c5bf5341b4806393",
+        "width" : 64
+      } ],
+      "name" : "The Front Bottoms",
+      "type" : "album",
+      "uri" : "spotify:album:3sqhmwesV4CATzLViN66OO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 297346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US37V1120701"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7G934pV1tSJ6UohJSOxpRF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7G934pV1tSJ6UohJSOxpRF",
+    "id" : "7G934pV1tSJ6UohJSOxpRF",
+    "is_playable" : true,
+    "name" : "Flashlight",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec057a6d38e4256e62607f9078d7165580ffa3a0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7G934pV1tSJ6UohJSOxpRF"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Xnl2E9agxhFfErrwooPnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Xnl2E9agxhFfErrwooPnW",
+      "id" : "4Xnl2E9agxhFfErrwooPnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9446db05edadb6a694c7ca9f11100b03d263373a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1bfa85eaaf7a5e3063da7f565d369ddf7f28353e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b48f16fd79cbe31d37bc6bf9878dc3c0c7b428f",
+        "width" : 64
+      } ],
+      "name" : "Rose",
+      "type" : "album",
+      "uri" : "spotify:album:4Xnl2E9agxhFfErrwooPnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1422706"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5t5ExTaqlvKliTz1spJV8K"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5t5ExTaqlvKliTz1spJV8K",
+    "id" : "5t5ExTaqlvKliTz1spJV8K",
+    "is_playable" : true,
+    "name" : "Awkward Conversations",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2837b9e132ba2507cdb65772ee29cf277792c0aa",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5t5ExTaqlvKliTz1spJV8K"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US37V1322202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4F3RzAPVTcJGAE1bClgCZe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4F3RzAPVTcJGAE1bClgCZe",
+    "id" : "4F3RzAPVTcJGAE1bClgCZe",
+    "is_playable" : true,
+    "name" : "Skeleton",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37a88bf669a646b292e7bb0a84e29a0f49914627",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4F3RzAPVTcJGAE1bClgCZe"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1L8mT5PfKYrOXOve2DNuih"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1L8mT5PfKYrOXOve2DNuih",
+    "id" : "1L8mT5PfKYrOXOve2DNuih",
+    "is_playable" : true,
+    "name" : "Motorcycle",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/24a339dd19725c5aa58d68aed2837f71086568c2",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1L8mT5PfKYrOXOve2DNuih"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1322210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Q8amq36SYCjA5lkkzcIrz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Q8amq36SYCjA5lkkzcIrz",
+    "id" : "2Q8amq36SYCjA5lkkzcIrz",
+    "is_playable" : true,
+    "name" : "Lone Star",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a9be5bfd245f39be8ce5b0dabaea96f21466f1e",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2Q8amq36SYCjA5lkkzcIrz"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210760,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1322203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6dmY7WY0axnkE5RCZNPq2v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6dmY7WY0axnkE5RCZNPq2v",
+    "id" : "6dmY7WY0axnkE5RCZNPq2v",
+    "is_playable" : true,
+    "name" : "Swear to God the Devil Made Me Do It",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/970317fc12049eb0ad845b87559f0203ed9eb695",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6dmY7WY0axnkE5RCZNPq2v"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vX1q4HCPZUKBTFBvFSTsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vX1q4HCPZUKBTFBvFSTsc",
+      "id" : "5vX1q4HCPZUKBTFBvFSTsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/01e04bc22e671d156b9aa529926950509153fe11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b40b022fe3131816799b00bfe3a47c7d2ad004f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3d8b3917151281213a1149a418b8a6c7206bf113",
+        "width" : 64
+      } ],
+      "name" : "Talon of the Hawk",
+      "type" : "album",
+      "uri" : "spotify:album:5vX1q4HCPZUKBTFBvFSTsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 247386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1322206"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4a2pYYRhP2DJ5H44LYppvT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4a2pYYRhP2DJ5H44LYppvT",
+    "id" : "4a2pYYRhP2DJ5H44LYppvT",
+    "is_playable" : true,
+    "name" : "Santa Monica",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b8ffe2694dab15f5d4dbfcb26e360de3d0ec6010",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4a2pYYRhP2DJ5H44LYppvT"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Xnl2E9agxhFfErrwooPnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Xnl2E9agxhFfErrwooPnW",
+      "id" : "4Xnl2E9agxhFfErrwooPnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9446db05edadb6a694c7ca9f11100b03d263373a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1bfa85eaaf7a5e3063da7f565d369ddf7f28353e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b48f16fd79cbe31d37bc6bf9878dc3c0c7b428f",
+        "width" : 64
+      } ],
+      "name" : "Rose",
+      "type" : "album",
+      "uri" : "spotify:album:4Xnl2E9agxhFfErrwooPnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 154426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1422702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1xGSZMu8U1ucRa4FdBGad3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1xGSZMu8U1ucRa4FdBGad3",
+    "id" : "1xGSZMu8U1ucRa4FdBGad3",
+    "is_playable" : true,
+    "name" : "Lipstick Covered Magnet",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/152fb5b31a29dee1919243c070929026b6a8702d",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1xGSZMu8U1ucRa4FdBGad3"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kPUTzKRpqY9mSPlHjL1OR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kPUTzKRpqY9mSPlHjL1OR",
+      "id" : "2kPUTzKRpqY9mSPlHjL1OR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/69ee11269fe1da304b86793dadc1f54b3fb91834",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75785cbb725821f2a57b2572f8caa0a265331161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70d9535bde9f455a98cf551b532447b7b4ce6cd8",
+        "width" : 64
+      } ],
+      "name" : "Back On Top",
+      "type" : "album",
+      "uri" : "spotify:album:2kPUTzKRpqY9mSPlHjL1OR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21502136"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2g7K7UFi5tVl8itvpFxYKH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2g7K7UFi5tVl8itvpFxYKH",
+    "id" : "2g7K7UFi5tVl8itvpFxYKH",
+    "is_playable" : true,
+    "name" : "2YL",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/46710babafbc18532ee592ab403d8f802fde508b",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:2g7K7UFi5tVl8itvpFxYKH"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Xnl2E9agxhFfErrwooPnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Xnl2E9agxhFfErrwooPnW",
+      "id" : "4Xnl2E9agxhFfErrwooPnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9446db05edadb6a694c7ca9f11100b03d263373a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1bfa85eaaf7a5e3063da7f565d369ddf7f28353e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b48f16fd79cbe31d37bc6bf9878dc3c0c7b428f",
+        "width" : 64
+      } ],
+      "name" : "Rose",
+      "type" : "album",
+      "uri" : "spotify:album:4Xnl2E9agxhFfErrwooPnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1422701"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2hIEXoL7TJXUgT8kMJsUKg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2hIEXoL7TJXUgT8kMJsUKg",
+    "id" : "2hIEXoL7TJXUgT8kMJsUKg",
+    "is_playable" : true,
+    "name" : "Flying Model Rockets",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d8feb87153ad5873de1421909c21d8aac77341ce",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2hIEXoL7TJXUgT8kMJsUKg"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Xnl2E9agxhFfErrwooPnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Xnl2E9agxhFfErrwooPnW",
+      "id" : "4Xnl2E9agxhFfErrwooPnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9446db05edadb6a694c7ca9f11100b03d263373a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1bfa85eaaf7a5e3063da7f565d369ddf7f28353e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b48f16fd79cbe31d37bc6bf9878dc3c0c7b428f",
+        "width" : 64
+      } ],
+      "name" : "Rose",
+      "type" : "album",
+      "uri" : "spotify:album:4Xnl2E9agxhFfErrwooPnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ictveRyhWRs8Gt8Dvt1hS",
+      "id" : "5ictveRyhWRs8Gt8Dvt1hS",
+      "name" : "The Front Bottoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ictveRyhWRs8Gt8Dvt1hS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 167306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US37V1422705"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/485jjMP8z9H0QEz170bjV0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/485jjMP8z9H0QEz170bjV0",
+    "id" : "485jjMP8z9H0QEz170bjV0",
+    "is_playable" : true,
+    "name" : "Be Nice to Me",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/50f4ae5a593ff8819bca4ca71fecf10ff30aaad0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:485jjMP8z9H0QEz170bjV0"
+  } ],
+  "total" : 50,
+  "limit" : 20,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/tracks",
+  "previous" : null,
+  "next" : "https://api.spotify.com/v1/me/top/tracks?limit=20&offset=20"
+}
