@@ -1,0 +1,621 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 98540
+    },
+    "genres" : [ "funk", "modern blues", "soul" ],
+    "href" : "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+    "id" : "7pXu47GoqSYRajmBCjxdD6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bc57ee82c269b88d7a542b99eba6153241f91a9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/1442b33bcc48ed32157ba7324881b37feccca8bc",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/49664f098d76437f2bd15518c4f5440b7970ad92",
+      "width" : 160
+    } ],
+    "name" : "Vulfpeck",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 155905
+    },
+    "genres" : [ "contemporary jazz", "jazz funk", "jazz fusion" ],
+    "href" : "https://api.spotify.com/v1/artists/7ENzCHnmJUr20nUjoZ0zZ1",
+    "id" : "7ENzCHnmJUr20nUjoZ0zZ1",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/ae5c6ad5bb45b18df6e792e6f737c3f2ee9f6a19",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d95baec1e17cb28ec3dc052de1c66fdd36b297f",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/669fe231721899c3f68bd92293a2eb594ba655f3",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fff38a2b1d2fa782d296fa5eee8d9e7fb287d2c5",
+      "width" : 64
+    } ],
+    "name" : "Snarky Puppy",
+    "popularity" : 60,
+    "type" : "artist",
+    "uri" : "spotify:artist:7ENzCHnmJUr20nUjoZ0zZ1"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5473028
+    },
+    "genres" : [ "dance pop", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+    "id" : "0du5cEVh5yTK9QJze8zA0C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa32d6d4ca2467974403518dd3ebfe8831c5ced1",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/63cad86cb183568085a4e5f0be86aa187cc511e4",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/5461dcbb3f23e1df62d85c8273fc49cc4edd49d5",
+      "width" : 160
+    } ],
+    "name" : "Bruno Mars",
+    "popularity" : 93,
+    "type" : "artist",
+    "uri" : "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3128217
+    },
+    "genres" : [ "dance pop", "pop", "pop christmas" ],
+    "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+    "id" : "3fMbdgg4jU18AjLCKBhRSm",
+    "images" : [ {
+      "height" : 881,
+      "url" : "https://i.scdn.co/image/30bd799d944e3ce9d10b16cf63a0969d145af97f",
+      "width" : 1000
+    }, {
+      "height" : 564,
+      "url" : "https://i.scdn.co/image/bceb8dcb7cbd0d703392f66f34a940dee8fc1ee9",
+      "width" : 640
+    }, {
+      "height" : 176,
+      "url" : "https://i.scdn.co/image/01630b7e1d5ed8a5bda350f56b494c243195aa2a",
+      "width" : 200
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/fac97e0681f7b594b761768ee229c9825bdb7ab4",
+      "width" : 64
+    } ],
+    "name" : "Michael Jackson",
+    "popularity" : 83,
+    "type" : "artist",
+    "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 325546
+    },
+    "genres" : [ "album rock", "hard rock", "mellow gold", "rock", "soft rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF",
+    "id" : "0PFtn5NtBbbUNbU9EAmIWF",
+    "images" : [ {
+      "height" : 759,
+      "url" : "https://i.scdn.co/image/4c800403a59d893e69a5c4683e5e8afbf376d203",
+      "width" : 1000
+    }, {
+      "height" : 486,
+      "url" : "https://i.scdn.co/image/6cb1e477af12ba999c0bbb1bcea8e714c887ae3e",
+      "width" : 640
+    }, {
+      "height" : 152,
+      "url" : "https://i.scdn.co/image/951e98c01031fb7cc89f108dd7afa159eb952c77",
+      "width" : 200
+    }, {
+      "height" : 49,
+      "url" : "https://i.scdn.co/image/9d60e81d8d571d20db6529d46e9d5b8ac03c08db",
+      "width" : 64
+    } ],
+    "name" : "Toto",
+    "popularity" : 72,
+    "type" : "artist",
+    "uri" : "spotify:artist:0PFtn5NtBbbUNbU9EAmIWF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 495961
+    },
+    "genres" : [ "dance pop", "pop", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/6T5tfhQCknKG4UnH90qGnz",
+    "id" : "6T5tfhQCknKG4UnH90qGnz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/274036ae38742827204536b234e9ce5e39ad427c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/0685657d36a6a402380394aa033626cba4abf972",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/0c3260f59203e95fada8cc3337169472886aea0e",
+      "width" : 160
+    } ],
+    "name" : "DNCE",
+    "popularity" : 80,
+    "type" : "artist",
+    "uri" : "spotify:artist:6T5tfhQCknKG4UnH90qGnz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 165306
+    },
+    "genres" : [ "soul", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/06nevPmNVfWUXyZkccahL8",
+    "id" : "06nevPmNVfWUXyZkccahL8",
+    "images" : [ {
+      "height" : 1001,
+      "url" : "https://i.scdn.co/image/d53f341eb63523a347af2ae97d4a4702b18a599d",
+      "width" : 1000
+    }, {
+      "height" : 641,
+      "url" : "https://i.scdn.co/image/2f02687fa9425bdada5372bb354977daf3db4748",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/007e9ccf8a4b33ad5095493911bf798d659feb26",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a156e5c4fa4cebac427b72b504f4dd1dbc39395",
+      "width" : 64
+    } ],
+    "name" : "Gregory Porter",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:06nevPmNVfWUXyZkccahL8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 317384
+    },
+    "genres" : [ "adult standards", "bebop", "contemporary post-bop", "cool jazz", "free jazz", "hard bop", "jazz", "jazz blues", "jazz christmas", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+    "id" : "2hGh5VOeeqimQFxqXvfCUf",
+    "images" : [ {
+      "height" : 1342,
+      "url" : "https://i.scdn.co/image/12aa1cbaad5f077082c0e7e70104fe658bc6318b",
+      "width" : 1000
+    }, {
+      "height" : 859,
+      "url" : "https://i.scdn.co/image/eebba87358e8de1bf65200a2950926c3dde99f15",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/38d46aa5522fa6235cce269beb5dee3540aa9667",
+      "width" : 200
+    }, {
+      "height" : 86,
+      "url" : "https://i.scdn.co/image/17f7d42f74a32c7051dbc3783b3c5d4c092dd403",
+      "width" : 64
+    } ],
+    "name" : "John Coltrane",
+    "popularity" : 68,
+    "type" : "artist",
+    "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3376874
+    },
+    "genres" : [ "alternative rock", "funk metal", "funk rock", "permanent wave", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/9527e700b5c80aa67350d5de0da10a0aa754fcb1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/a7af6412632c81ebfb5e39495aa3dacc564cb22b",
+      "width" : 160
+    } ],
+    "name" : "Red Hot Chili Peppers",
+    "popularity" : 86,
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 212198
+    },
+    "genres" : [ "christian christmas", "gospel", "neo soul" ],
+    "href" : "https://api.spotify.com/v1/artists/4akybxRTGHJZ1DXjLhJ1qu",
+    "id" : "4akybxRTGHJZ1DXjLhJ1qu",
+    "images" : [ {
+      "height" : 421,
+      "url" : "https://i.scdn.co/image/0ffbf26c0e3a67bf863c47b1f80b394113a2ba64",
+      "width" : 636
+    }, {
+      "height" : 132,
+      "url" : "https://i.scdn.co/image/a1e4dcdafb7f11e08edd5de1c3b1227ce08bd4de",
+      "width" : 199
+    }, {
+      "height" : 42,
+      "url" : "https://i.scdn.co/image/ae54aada12b90a88c85db9fb9c1490091a99113d",
+      "width" : 63
+    } ],
+    "name" : "Kirk Franklin",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:4akybxRTGHJZ1DXjLhJ1qu"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 806854
+    },
+    "genres" : [ "album rock", "classic rock", "hard rock", "mellow gold", "rock", "soft rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "images" : [ {
+      "height" : 1021,
+      "url" : "https://i.scdn.co/image/54a86ecf1de16b17e2ed000a9ca8a1590c9a3b80",
+      "width" : 1000
+    }, {
+      "height" : 653,
+      "url" : "https://i.scdn.co/image/caf04a8a030c70dd697ee0b37562033bbe3cdb4f",
+      "width" : 640
+    }, {
+      "height" : 204,
+      "url" : "https://i.scdn.co/image/7756c61bed0dc7650b188a4c7be984dc4e1d7651",
+      "width" : 200
+    }, {
+      "height" : 65,
+      "url" : "https://i.scdn.co/image/0ba7e13266153e59b9b611cbd43e21aec7f6737c",
+      "width" : 64
+    } ],
+    "name" : "Dire Straits",
+    "popularity" : 74,
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 19124
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/0QWrMNukfcVOmgEU0FEDyD",
+    "id" : "0QWrMNukfcVOmgEU0FEDyD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac68f7c5133251f93d92560fd1a5975250adcd6d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/d8269765cd1dde242e2109ac3888b87fd48c91b0",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/cc43ed9b944f3e75b8d3c83f5c0a680b19c4e9b3",
+      "width" : 160
+    } ],
+    "name" : "Jacob Collier",
+    "popularity" : 48,
+    "type" : "artist",
+    "uri" : "spotify:artist:0QWrMNukfcVOmgEU0FEDyD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5271175
+    },
+    "genres" : [ "dance pop", "pop", "pop christmas", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+    "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+    "images" : [ {
+      "height" : 614,
+      "url" : "https://i.scdn.co/image/ab8479e6dbae578bf4856dfbcf4fab77e52a32b3",
+      "width" : 925
+    }, {
+      "height" : 425,
+      "url" : "https://i.scdn.co/image/097f7744cfa22858f76c7f23663901453857b7ff",
+      "width" : 640
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/9ebcff1926ceca5c06e065824b25d4a5989a5a5b",
+      "width" : 200
+    }, {
+      "height" : 42,
+      "url" : "https://i.scdn.co/image/54ae4f3269bd4647e5975bb5c509a686fcf499cc",
+      "width" : 63
+    } ],
+    "name" : "Ariana Grande",
+    "popularity" : 91,
+    "type" : "artist",
+    "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 962364
+    },
+    "genres" : [ "classic funk rock", "funk rock", "motown", "soft rock", "soul", "soul christmas" ],
+    "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+    "id" : "7guDJrEfX3qb6FEbdPA5qi",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/86db105521e0468da2c4ece8be7f6706cc4e511d",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28b1f4aa6b35c2a36afc5314da87722e4012ccde",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/5c9e566c1794bd2feb9dbdc1208b2b9b2d7012ae",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01d8e6fde29c2ebf7c9f599ae1344fd16d44d2ce",
+      "width" : 64
+    } ],
+    "name" : "Stevie Wonder",
+    "popularity" : 78,
+    "type" : "artist",
+    "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7810129
+    },
+    "genres" : [ "canadian pop", "dance pop", "pop", "pop christmas", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+    "id" : "1uNFoZAHBGtllmzznpCI3s",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/5c3cf2ee3494e2da71dcf26303202ec491b26213",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2e451efa87b706098553583cffac821b7ebac450",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/ca283ddea2afc65c15d802d45ee3d3fd255ab4e2",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ce41eb4beaad8d07fd55a68aba16b27e341a2e4f",
+      "width" : 64
+    } ],
+    "name" : "Justin Bieber",
+    "popularity" : 95,
+    "type" : "artist",
+    "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 508257
+    },
+    "genres" : [ "dance pop", "pop", "tropical house", "uk funky" ],
+    "href" : "https://api.spotify.com/v1/artists/6MDME20pz9RveH9rEXvrOM",
+    "id" : "6MDME20pz9RveH9rEXvrOM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d0ebcb13bc054019189e4bc8ed39c2127aa98873",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/50be75bd3ea2f943de47da4c80688c31b7c8b196",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/d068231461c88c6f6ec5861d25a6e85f81bdf66d",
+      "width" : 160
+    } ],
+    "name" : "Clean Bandit",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:6MDME20pz9RveH9rEXvrOM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3160881
+    },
+    "genres" : [ "album rock", "classic rock", "glam rock", "heavy christmas", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "images" : [ {
+      "height" : 806,
+      "url" : "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+      "width" : 999
+    }, {
+      "height" : 516,
+      "url" : "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+      "width" : 640
+    }, {
+      "height" : 161,
+      "url" : "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+      "width" : 200
+    }, {
+      "height" : 52,
+      "url" : "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+      "width" : 64
+    } ],
+    "name" : "Queen",
+    "popularity" : 83,
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2735628
+    },
+    "genres" : [ "british invasion", "classic rock", "merseybeat", "protopunk", "psychedelic rock", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/934c57df9fbdbbaa5e93b55994a4cb9571fd2085",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5f70d98d3e4616a02a3afe2aa9a840b9157b92a1",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/7fe1a693adc52e274962f1c61d76ca9ccc62c191",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/857b1ce5b1b372b873b0a8bdb3ff8023b6c61d39",
+      "width" : 64
+    } ],
+    "name" : "The Beatles",
+    "popularity" : 86,
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 234217
+    },
+    "genres" : [ "classic funk rock", "dance pop", "deep indie r&b", "funk", "funk rock", "hip hop", "indie r&b", "motown", "neo soul", "new jack swing", "quiet storm", "r&b", "soul", "urban contemporary" ],
+    "href" : "https://api.spotify.com/v1/artists/336vr2M3Va0FjyvB55lJEd",
+    "id" : "336vr2M3Va0FjyvB55lJEd",
+    "images" : [ {
+      "height" : 1384,
+      "url" : "https://i.scdn.co/image/c69197fa9d01ec73e2617525b920e76b550ba2e2",
+      "width" : 1000
+    }, {
+      "height" : 885,
+      "url" : "https://i.scdn.co/image/93bcec2fca85cdc5b1624b0d4f7c71169dfa1b40",
+      "width" : 640
+    }, {
+      "height" : 277,
+      "url" : "https://i.scdn.co/image/684bedc9545de1eb2b3ed1133e9b6f5668775049",
+      "width" : 200
+    }, {
+      "height" : 89,
+      "url" : "https://i.scdn.co/image/d095e7dee69a4430fea48dd53c8ba597415b6ea1",
+      "width" : 64
+    } ],
+    "name" : "D'Angelo",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3071710
+    },
+    "genres" : [ "electro", "electronic", "filter house" ],
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "images" : [ {
+      "height" : 751,
+      "url" : "https://i.scdn.co/image/b082b3b4e1be19f496855239a96a980dbcc2afe9",
+      "width" : 999
+    }, {
+      "height" : 481,
+      "url" : "https://i.scdn.co/image/7340c3d9657a4851e19a1173a4eab3990482fea5",
+      "width" : 640
+    }, {
+      "height" : 150,
+      "url" : "https://i.scdn.co/image/75a51a0a1b0a453d8b10ecfe48bff89d704d757c",
+      "width" : 200
+    }, {
+      "height" : 48,
+      "url" : "https://i.scdn.co/image/5471b7df087e073aab177074e371f8dbc692817c",
+      "width" : 64
+    } ],
+    "name" : "Daft Punk",
+    "popularity" : 92,
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  } ],
+  "total" : 50,
+  "limit" : 20,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/artists",
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=20&offset=20"
+}

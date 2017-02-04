@@ -1,4 +1,23 @@
 {
-  "name" : "kieran",
-  "age" : 19
+  "birthdate" : "1997-07-15",
+  "country" : "GB",
+  "display_name" : "Kieran Rigby",
+  "email" : "kieran@kierigby.com",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/1123320565"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 27
+  },
+  "href" : "https://api.spotify.com/v1/users/1123320565",
+  "id" : "1123320565",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/14199531_10209133918016610_5674475387902279709_n.jpg?oh=072ee3fa546cc9e1ab35ecca588ef5e8&oe=590C4368",
+    "width" : null
+  } ],
+  "product" : "premium",
+  "type" : "user",
+  "uri" : "spotify:user:1123320565"
 }
