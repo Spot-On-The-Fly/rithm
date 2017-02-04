@@ -1,0 +1,19 @@
+{
+  "display_name" : "George Padley",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/1161086985"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 31
+  },
+  "href" : "https://api.spotify.com/v1/users/1161086985",
+  "id" : "1161086985",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/15095485_10211526572787831_3866854580826927816_n.jpg?oh=bb6a2dc9243ed478a6f06a0384854684&oe=5905B7AF",
+    "width" : null
+  } ],
+  "type" : "user",
+  "uri" : "spotify:user:1161086985"
+}
