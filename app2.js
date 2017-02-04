@@ -109,3 +109,32 @@ for(var i = 0; i<songs.length; i++){
 for(var i = 0; i< playlist.length; i++){
     console.log([i+1] + " " + playlist[i].name);
 }
+var artistpick = function(list, played){
+    var most = 0;
+    var artist = "";
+    for(var i = 0; i < list.length; i++){
+        var found = false;
+            if(list[i].ids.length>most){
+                for(var j = 0; j < played.length; j++){
+                    if(list[i].info.name == played[j].name){
+                        found = true;
+                    }
+                }
+                if(!found){
+                    most = list[i].ids.length;
+                    artist = list[i].info.name;
+                }
+            }
+    }
+    var tmp = new Object();
+        tmp.name = artist;
+        played.push(tmp);
+        return played;
+}
+var artlist = [];
+for(var i = 0; i<artists.length; i++){
+    artlist = artistpick(artists, artlist);
+}
+for(var i = 0; i< artlist.length; i++){
+    console.log([i+1] + " " + artlist[i].name);
+}
