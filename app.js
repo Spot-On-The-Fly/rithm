@@ -1,7 +1,7 @@
-var kieran = require('./kieran.json');
-
-console.log(kieran.name);
-
+var jack = require('./jackinfo.json');
+for(var i = 0; i<10; i++){
+console.log(jack.items[i].album.name);
+}
 // var user = new object{
 //   username : 'username';
 //   date : new Date();
