@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "album" : {
-    "album_type" : "album",
-=======
   "items" : [ {
     "album" : {
       "album_type" : "ALBUM",
@@ -293,7 +289,6 @@
       "type" : "album",
       "uri" : "spotify:album:12zl1WmHPFCSyKYbL4vBZn"
     },
->>>>>>> 67242755c6c40bbf15a54f6a448cc694ce16feea
     "artists" : [ {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
@@ -538,7 +533,7 @@
   "total" : 50,
   "limit" : 10,
   "offset" : 0,
-  "href" : "https://api.spotify.com/v1/me/top/tracks?limit=10&offset=0",
   "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/tracks?limit=10&offset=0",
   "next" : "https://api.spotify.com/v1/me/top/tracks?limit=10&offset=10"
 }

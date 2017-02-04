@@ -1,0 +1,157 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 98516
+    },
+    "genres" : [ "funk", "modern blues", "soul" ],
+    "href" : "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+    "id" : "7pXu47GoqSYRajmBCjxdD6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bc57ee82c269b88d7a542b99eba6153241f91a9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/1442b33bcc48ed32157ba7324881b37feccca8bc",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/49664f098d76437f2bd15518c4f5440b7970ad92",
+      "width" : 160
+    } ],
+    "name" : "Vulfpeck",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1518136
+    },
+    "genres" : [ "nu gaze", "pop", "shiver pop" ],
+    "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+    "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/2da5d942f937e0b0aeb72b378181148fcc2a9444",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/671ce6f001288e823c82a74f97ad9d4b2afc8fda",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/39eb83daf0206135a0ccf5100ce4b27f032d1df8",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a296dddc5c94090d27b93466077ce50948f9788f",
+      "width" : 64
+    } ],
+    "name" : "The 1975",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2781923
+    },
+    "genres" : [ "permanent wave", "pop punk", "pop rock", "punk", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+    "id" : "7oPftvlwr6VrsViSDV7fJY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/750d2623778e3522734d5e1942a18401fe100fc9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/17d5df7a8bc0d5689545e99475cbbeaab485bdf7",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/e5efead78896bfffe37a34b9ba9345129ab9a199",
+      "width" : 160
+    } ],
+    "name" : "Green Day",
+    "popularity" : 83,
+    "type" : "artist",
+    "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3522999
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+    "id" : "3YQKmKGau1PzlVlkL1iodx",
+    "images" : [ {
+      "height" : 667,
+      "url" : "https://i.scdn.co/image/b396c3f5ddf29a8f49337ae7f8a2acdbc3561cc7",
+      "width" : 1000
+    }, {
+      "height" : 427,
+      "url" : "https://i.scdn.co/image/01f608a46e8ca7984e1121e334a089fef46777c7",
+      "width" : 640
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/57d72c0c06f5d93fbba622a0f47c9ed6ce5a61d9",
+      "width" : 199
+    }, {
+      "height" : 43,
+      "url" : "https://i.scdn.co/image/11911591838f66ef585cfe5e3dee452e3e16b3d9",
+      "width" : 64
+    } ],
+    "name" : "Twenty One Pilots",
+    "popularity" : 91,
+    "type" : "artist",
+    "uri" : "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3585850
+    },
+    "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap metal", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+    "id" : "6XyY86QOPPrYVGvF9ch6wz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/441d13790c1da86b7f869ff42ef7828faa8d3f87",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/2b5ad13b1bd1a721da39fa1b08c6bc95452c4158",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/e6a67fb4e286aae86a7ff7edb5e0fe142eda8aca",
+      "width" : 160
+    } ],
+    "name" : "Linkin Park",
+    "popularity" : 84,
+    "type" : "artist",
+    "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+  } ],
+  "total" : 50,
+  "limit" : 5,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=5&offset=0",
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=5&offset=5"
+}

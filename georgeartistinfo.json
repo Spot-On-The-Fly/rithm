@@ -1,0 +1,157 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1518136
+    },
+    "genres" : [ "nu gaze", "pop", "shiver pop" ],
+    "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+    "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/2da5d942f937e0b0aeb72b378181148fcc2a9444",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/671ce6f001288e823c82a74f97ad9d4b2afc8fda",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/39eb83daf0206135a0ccf5100ce4b27f032d1df8",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a296dddc5c94090d27b93466077ce50948f9788f",
+      "width" : 64
+    } ],
+    "name" : "The 1975",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 194576
+    },
+    "genres" : [ "dance pop", "europop", "hollywood", "neo mellow", "pop", "pop christmas", "pop punk", "post-teen pop", "punk christmas" ],
+    "href" : "https://api.spotify.com/v1/artists/47izDDvtOxxz3FzHYuUptd",
+    "id" : "47izDDvtOxxz3FzHYuUptd",
+    "images" : [ {
+      "height" : 450,
+      "url" : "https://i.scdn.co/image/ee7f32b3a2bd0c2a11e4bf33721cefdb941c6f16",
+      "width" : 300
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/36410e18dbdca922da537c415fb547e968c8652c",
+      "width" : 200
+    }, {
+      "height" : 96,
+      "url" : "https://i.scdn.co/image/619afbda1c5ef9c65a83d2d1d08376ba21cb506f",
+      "width" : 64
+    } ],
+    "name" : "McFly",
+    "popularity" : 60,
+    "type" : "artist",
+    "uri" : "spotify:artist:47izDDvtOxxz3FzHYuUptd"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 155882
+    },
+    "genres" : [ "contemporary jazz", "jazz funk", "jazz fusion" ],
+    "href" : "https://api.spotify.com/v1/artists/7ENzCHnmJUr20nUjoZ0zZ1",
+    "id" : "7ENzCHnmJUr20nUjoZ0zZ1",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/ae5c6ad5bb45b18df6e792e6f737c3f2ee9f6a19",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d95baec1e17cb28ec3dc052de1c66fdd36b297f",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/669fe231721899c3f68bd92293a2eb594ba655f3",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fff38a2b1d2fa782d296fa5eee8d9e7fb287d2c5",
+      "width" : 64
+    } ],
+    "name" : "Snarky Puppy",
+    "popularity" : 60,
+    "type" : "artist",
+    "uri" : "spotify:artist:7ENzCHnmJUr20nUjoZ0zZ1"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7728
+    },
+    "genres" : [ "jam band" ],
+    "href" : "https://api.spotify.com/v1/artists/5I6ni4YWY0WJUs6rFqufxT",
+    "id" : "5I6ni4YWY0WJUs6rFqufxT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dc7d97f2bdca8fa348edb7e7cb2d315a8416f59a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/c2557009b489a2d223edf600dcf8bd3b53b820b9",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/acbb2c31574b549e0c9eb02b16343d9c5e6e5c8c",
+      "width" : 160
+    } ],
+    "name" : "The Main Squeeze",
+    "popularity" : 39,
+    "type" : "artist",
+    "uri" : "spotify:artist:5I6ni4YWY0WJUs6rFqufxT"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 98516
+    },
+    "genres" : [ "funk", "modern blues", "soul" ],
+    "href" : "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+    "id" : "7pXu47GoqSYRajmBCjxdD6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bc57ee82c269b88d7a542b99eba6153241f91a9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/1442b33bcc48ed32157ba7324881b37feccca8bc",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/49664f098d76437f2bd15518c4f5440b7970ad92",
+      "width" : 160
+    } ],
+    "name" : "Vulfpeck",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+  } ],
+  "total" : 50,
+  "limit" : 5,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=5&offset=0",
+  "previous" : null,
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=5&offset=5"
+}
