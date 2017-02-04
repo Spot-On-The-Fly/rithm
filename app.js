@@ -4,34 +4,23 @@ var users = require('./newuser.js');
 
 //create initial object
 var common = function(user1, trackinfo){
-  //object definniton
-  var idarray = {}
-  var u1add = true;
-  // var u2add = true;
-  for(var i = 0; i<idarray.length; i++){
-      if(user1 == idarray[i]){
-          u1add = false;
+    //object definniton
+    var idarray = {}
+    var u1add = true;
+    for(var i = 0; i<idarray.length; i++){
+        if(user1 == idarray[i]){
+            u1add = false;
+        }
       }
-    //   if(user2 == idarray[i]){
-    //       u2add = false;
-    //   }
-  }
   if(u1add){
       idarray.append(user1);
   }
-  // if(u2add){
-  //     idarray.append(user2);
-  // }
   var tmp = new Object();
     tmp.ids = idarray;
     tmp.info = trackinfo
-
-    // console.log(tmp);
     return tmp;
 };
-//song[num] = common(u1, u1, trackinfo)
 
-//user
 for(var i=0; i<Object.keys(users.user).length; i++){
     //console.log(users.user[i].id);
 
