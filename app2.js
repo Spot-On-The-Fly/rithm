@@ -5,23 +5,29 @@ var playlist = [];
 var genres = [];
 var artists = [];
 var songs = [];
-
-var itemadd = function(list, track, user){
+//empty arrays to hole the artist list
+var itemadd = function(list, item, user){
     var add = false;
+    //used to see if the id has been added to a repeated item
     for(var i = 0; i < list.length; i++){
-        if(list[i].info.id == track.id){
+        if(list[i].info.id == item.id){
+            //if the user has the same item add their user id to the array of the user ids
             add = true;
             list[i].ids.push(user);
+            //pusing the id into the array of ids
         }
     }
     if(!add){
         var tmp = new Object();
         tmp.ids = [user];
-        tmp.info = track;
-        //console.log(tmp);
+        //create a new entry for the item in the list and adds the user id to an array
+        tmp.info = item;
+        //adds the item information
         list.push(tmp);
+        //pushes the new value into the array of songs or artists
     }
     return list;
+    //returns the new list
 };
 
 var genrelist = function(artgen, genlength, gen){
@@ -30,6 +36,7 @@ var genrelist = function(artgen, genlength, gen){
         var add = true;
         for(var j = 0 ; j < gen.length; j++){
             if(gen[j] == artgen[i]){
+                //if the genre is repeated between songs, increase the weighting of this genre relative to the id numbers of this genre
                 add = false;
                 gen[i].weight += genlength;
             }
