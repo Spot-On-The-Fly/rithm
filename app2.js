@@ -64,7 +64,7 @@ var songpick = function(list, played){
             }
             if(!found){
                 most = list[i].ids.length;
-                track = list[i].info.name;
+                track = list[i].info/*.name*/;
             }
         }
     }
@@ -86,7 +86,7 @@ var randomsong = function(list, played){
         }
     }
     var tmp = new Object();
-    tmp.name = list[number].info.name;
+    tmp.name = list[number].info/*.name*/;
     played.push(tmp);
     return played;
 }
@@ -104,7 +104,7 @@ var artistpick = function(list, played){
             }
             if(!found){
                 most = list[i].ids.length;
-                artist = list[i].info.name;
+                artist = list[i].info/*.name*/;
             }
         }
     }
