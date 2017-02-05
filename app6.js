@@ -7,7 +7,7 @@ var spotifyAPI = require('spotify-web-api-node');
 var spot = new spotifyAPI();
 
 var users = require('./newuser.js');
-
+//initialise arrays
 var artlist = [];
 var artrep = [];
 var playlist = [];
@@ -157,8 +157,30 @@ if (typeof localStorage === "undefined" || localStorage === null) {
   localStorage = new LocalStorage('./scratch');
 }
 
-var repArt = [];
-var toptracks = [];
+//--GET RELATED ARTISTS--//
+for(var i = 0; i < artrep.length; i++){
+    spot.getArtistRelatedArtists(artrep[i].info.id).then(function(data){
+
+        // fs.writeFile('test.json', json);
+        // var tmpid = require('./test.json');
+        // toptracks.push(tmpid);
+        var string = data.body;
+        localStorage.setItem('relt.json', JSON.stringify(string));
+    });
+}
+
+var relartists = JSON.parse(localStorage.getItem('relt.json'));
+for(var i = 0; i < relartists.artists.length; i++){
+
+    console.log(relartists.artists[i].name);
+}
+
+
+artrep.concat(relartists.artists);
+
+//append related artist onto current artists
+
+//--GET TOP TRACKS--//
 for(var i = 0; i < artrep.length; i++){
     spot.getArtistTopTracks(artrep[i].info.id, 'GB').then(function(data){
 
@@ -166,10 +188,14 @@ for(var i = 0; i < artrep.length; i++){
         // var tmpid = require('./test.json');
         // toptracks.push(tmpid);
         var string = data.body.tracks;
-        localStorage.setItem('test.json', JSON.stringify(string));
+        localStorage.setItem('topt.json', JSON.stringify(string));
     });
 }
 
-var fetch = JSON.parse(localStorage.getItem('test.json'));
 
-console.log(fetch);
+var toptracks = JSON.parse(localStorage.getItem('topt.json'));
+// console.log(toptracks[0]);
+for(var i = 0; i < toptracks.length; i++){
+
+    console.log(toptracks[i]);
+}
