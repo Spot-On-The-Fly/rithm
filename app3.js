@@ -1,3 +1,6 @@
+var express = require('express');
+var app = express();
+
 var spotifyAPI = require('spotify-web-api-node');
 
 var spot = new spotifyAPI();
@@ -10,7 +13,6 @@ var playlist = [];
 var genres = [];
 var artists = [];
 var songs = [];
-var repArt = [];
 //empty arrays to hole the artist list
 var itemadd = function(list, item, user){
     var add = false;
@@ -126,12 +128,8 @@ for(var i=0; i<Object.keys(users.user).length; i++){
     for(var j=0; j<Object.keys(users.user[i].ta).length; j++){
          artists = itemadd(artists, users.user[i].ta[j], users.user[i].id);
     }
-}
-
-for(var i=0; i<Object.keys(users.user).length; i++){
-
-    for(var j=0; j<Object.keys(users.user[i].tt).length; j++){
-         songs = itemadd(songs, users.user[i].tt[j], users.user[i].id);
+    for(var k=0; k<Object.keys(users.user[i].tt).length; k++){
+        songs = itemadd(songs, users.user[i].tt[k], users.user[i].id);
     }
 }
 
@@ -154,9 +152,11 @@ for(var i=0; i<artists.length; i++){
 //     console.log([i+1] + " " + playlist[i].name);
 // }
 
-for(var i = 0; i < artrep.length; i++){
-    console.log(artrep[i].info.name);
+var repArt = [];
+var toptracks = [];
+for(var i = 0; i < 1; i++){
     spot.getArtistTopTracks(artrep[i].info.id, 'GB').then(function(data){
-        for(int j = 0; j < data.length)
+        toptracks.push(data.body.tracks);
+        console.log(toptracks);
     });
 }
