@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var fs = require('jsonfile')
 
 var spotifyAPI = require('spotify-web-api-node');
 
@@ -154,9 +155,12 @@ for(var i=0; i<artists.length; i++){
 
 var repArt = [];
 var toptracks = [];
-for(var i = 0; i < 1; i++){
+for(var i = 0; i < artrep.length; i++){
     spot.getArtistTopTracks(artrep[i].info.id, 'GB').then(function(data){
-        toptracks.push(data.body.tracks);
-        console.log(toptracks);
+        var json = data.body.tracks;
+        fs.writeFile('test.json', json);
     });
+    var tmpid = require('./test.json');
+    toptracks.push(tmpid);
 }
+console.log(toptracks);
