@@ -157,6 +157,6 @@ for(var i=0; i<artists.length; i++){
 for(var i = 0; i < artrep.length; i++){
     console.log(artrep[i].info.name);
     spot.getArtistTopTracks(artrep[i].info.id, 'GB').then(function(data){
-        console.log(data.body);
+        for(int j = 0; j < data.length)
     });
 }
