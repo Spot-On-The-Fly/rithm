@@ -1,5 +1,11 @@
 var users = require('./newuser.js');
 
+var artlist = [];
+var playlist = [];
+var genres = [];
+var artists = [];
+var songs = [];
+
 var itemadd = function(list, track, user){
   var add = false;
       for(var i = 0; i < list.length; i++){
@@ -19,8 +25,6 @@ var itemadd = function(list, track, user){
   };
 
 
-var artists = [];
-var songs = [];
 
 
 for(var i=0; i<Object.keys(users.user).length; i++){
@@ -36,21 +40,6 @@ for(var i=0; i<Object.keys(users.user).length; i++){
          songs = itemadd(songs, users.user[i].tt[j], users.user[i].id);
     }
 }
-// console.log("Artists")
-// for(var i = 0; i < artists.length; i++){
-//     if(artists[i].ids.length > 1){
-//         console.log(artists[i].ids.length + " " + artists[i].info.name)
-//     }
-// }
-// console.log("Songs")
-// for(var i = 0; i < songs.length; i++){
-//     if(songs[i].ids.length > 1){
-//         console.log(songs[i].ids.length + " " + songs[i].info.name)
-//     }
-// }
-// for(var i=0; i<artists.length; i++){
-//     console.log(artists[i].info.genres);
-// }
 
 var genrelist = function(artgen, genlength, gen){
 
@@ -71,15 +60,9 @@ var genrelist = function(artgen, genlength, gen){
     }
     return gen;
 }
-var genres = [];
 for(var i=0; i<artists.length; i++){
     genres = genrelist(artists[i].info.genres, artists[i].ids.length, genres);
 }
-// for(var i = 0; i < genres.length; i++){
-//     if(genres[i].weight>1){
-//         console.log(genres[i].gen);
-//     }
-// }
 var songpick = function(list, played){
     var most = 0;
     var track = "";
@@ -102,8 +85,24 @@ var songpick = function(list, played){
         played.push(tmp);
         return played;
 }
-var playlist = [];
-for(var i = 0; i<songs.length; i++){
+var randomsong = function(list, played){
+    var found = true;
+    while(found){
+        found = false;
+    var number = Math.floor(Math.random()*list.length);
+        for(var i = 0; i < played.length; i++){
+            if(list[number].info.name == played[i].name){
+                found = true;
+            }
+        }
+    }
+    var tmp = new Object();
+        tmp.name = list[number].info.name;
+        played.push(tmp);
+        return played;
+}
+for(var i = 0; i<songs.length/2; i++){
+    playlist = randomsong(songs, playlist);
     playlist = songpick(songs, playlist);
 }
 for(var i = 0; i< playlist.length; i++){
@@ -131,10 +130,10 @@ var artistpick = function(list, played){
         played.push(tmp);
         return played;
 }
-var artlist = [];
-for(var i = 0; i<artists.length; i++){
-    artlist = artistpick(artists, artlist);
-}
-for(var i = 0; i< artlist.length; i++){
-    console.log([i+1] + " " + artlist[i].name);
-}
+
+// for(var i = 0; i<artists.length; i++){
+//     artlist = artistpick(artists, artlist);
+// }
+// for(var i = 0; i< artlist.length; i++){
+//     console.log([i+1] + " " + artlist[i].name);
+// }
